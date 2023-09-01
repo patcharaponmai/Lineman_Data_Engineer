@@ -23,8 +23,11 @@ There are four main assignments
 You can access the source code and see a result of this project in the [GitHub Repository](https://github.com/patcharaponmai/Lineman_Senior_Data_Engineer.git).
 
 ## Requirement library
->1. Pandas - for read and cleansnig data
->2. Psycopg2 - for create connection to PostgreSQL database
+>1. Pandas
+>2. Psycopg2
+>3. os
+>4. findspark
+>5. pyspark
 
 ## Installation
 
