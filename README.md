@@ -18,6 +18,9 @@ There are four main assignments
 >>1. Lineman_test.ipynb (Main Script)
 >>2. mapper.py, reducer.py (For build map reducer in HADOOP)
 
+## Accessing the Source Code
+
+You can access the source code and see a result of this project in the [GitHub Repository](https://github.com/patcharaponmai/Lineman_Senior_Data_Engineer.git).
 
 ## Requirement library
 >1. Pandas - for read and cleansnig data
